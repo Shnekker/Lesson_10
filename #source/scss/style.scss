@@ -167,7 +167,7 @@ body{
 			font-size: 16px;
 			line-height: 160%;
 			color: #424551;
-			background: url('/img/main/icons/Files.svg') 0 50%  no-repeat;
+			background: url('../img/img/main/icons/Files.svg') 0 50%  no-repeat;
 			padding-left: 24px;
 			position: relative;
 			&::after{
@@ -216,7 +216,7 @@ body{
 			line-height: 160%;
 			display: flex;
 			color: #787A80;
-			background: url('/img/main/icons/Calendar.svg') 0 50% no-repeat;
+			background: url('../img/img/main/icons/Calendar.svg') 0 50% no-repeat;
 			padding-left: 24px;
 		}
 
@@ -225,7 +225,7 @@ body{
 			line-height: 160%;
 			display: flex;
 			color: #787A80;
-			background: url('/img/main/icons/Clock.svg') 0 50% no-repeat;
+			background: url('../img/img/main/icons/Clock.svg') 0 50% no-repeat;
 			padding-left: 24px;
 		}
 
@@ -285,7 +285,7 @@ body{
 			font-size: 20px;
 			line-height: 150%;
 			color: #1E212C;
-			background: url('/img/main/icons/braces.svg') 0 0 no-repeat ;	
+			background: url('../img/img/main/icons/Clock.svg') 0 0 no-repeat ;	
 			padding-left: 58px;
 			margin-bottom: 48px;
 			}
@@ -305,7 +305,7 @@ body{
 		}
 
 		&__link {
-			background: url('/img/main/icons/checklist.svg') 0 50% no-repeat;
+			background: url('../img/img/main/icons/checklist.svg') 0 50% no-repeat;
 			padding-left: 32px;
 			&:not(:last-child){
 				margin-bottom: 5px;
